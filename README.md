@@ -907,4 +907,7 @@ WHERE rownum <= 25;
 
 ## Useful Links
 
-1. [Take your SQL from Good to Great](https://towardsdatascience.com/take-your-sql-from-good-to-great-part-1-3ae61539e92a)
+1. [Take your SQL from Good to Great - Common Table Expressions](https://towardsdatascience.com/take-your-sql-from-good-to-great-part-1-3ae61539e92a)
+1. [Take your SQL from Good to Great - All about those dates](https://towardsdatascience.com/take-your-sql-from-good-to-great-part-2-cb03b1b7981b)
+1. [Take your SQL from Good to Great - The other JOINs](https://towardsdatascience.com/take-your-sql-from-good-to-great-part-3-687d797d1ede)
+1. [Take your SQL from Good to Great - Window Functions](https://towardsdatascience.com/take-your-sql-from-good-to-great-part-4-99a55fd0e7ff)
